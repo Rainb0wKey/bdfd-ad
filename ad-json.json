@@ -1,0 +1,10 @@
+{"all":{
+  "0":{"type":"bot", "link":"none", "banner":"none", "image":"none", "color":"0", "id":"0", 
+    "info": {
+      "views":{"total":"0", "en":"0", "ru":"0", "pl":"0", "ignore":"0"},
+      "staff":{"accept":"0", "time":"0", "block":"false"},
+      "guilds":{"big":"0", "small":"0"} 
+      }
+    } 
+  }
+}
